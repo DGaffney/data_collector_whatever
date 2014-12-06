@@ -1,4 +1,4 @@
-class CollectAudience
+class CollectUser
   include Sidekiq::Worker
   include TwitterCreds
 
