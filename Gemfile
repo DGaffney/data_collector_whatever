@@ -1,0 +1,8 @@
+source 'https://rubygems.org'
+gem 'mongo_mapper'
+gem 'twitter'
+gem 'sidekiq'
+gem 'pry'
+gem 'bson_ext'
+gem 'sinatra'
+gem 'rake'
