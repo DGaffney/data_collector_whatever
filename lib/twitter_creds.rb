@@ -1,6 +1,7 @@
 module TwitterCreds
   def keys
     [
+      {consumer_key: "K0PZpHcYCfHd6teKEJjbw", consumer_secret: "XUWd6l2hf1GyMbHoDiCsiXYfJ1W52OCbDHFO70TXw", access_token: "13731562-Zv0itQvq7HvjFV7xrlRjQnn4dKUUlFWnargtRfayO", access_token_secret: "0GpYk7UgfUykXAYuU2lj2fxqY1n3qCqhf3XL4uygI"},
       {consumer_key: "gkkhB8zthzG622bt9x0C3w", consumer_secret: "2xB6Jwvi24uDQCK6Y3b9WwlxGsQLeSkceVN6LDV2R4", oauth_token: "13731562-kw1GROgsjtQ9hsjgLVbWJuFTI8PfRkLsazK9raP6Y", oauth_token_secret: "2HZmhaMhfPiNi4egJO1dbnYEaFB8uFBmuL7f5wFglU"},
       {consumer_key: "gkkhB8zthzG622bt9x0C3w", consumer_secret: "2xB6Jwvi24uDQCK6Y3b9WwlxGsQLeSkceVN6LDV2R4", oauth_token: "3658721-LMKPKKYl7kTLkYJel3KxkWs3JJ4oMMXyY6ed0KTpbo", oauth_token_secret: "ZKJBKPqepcyTORpK5APEtoRvXjEknWKVW93A9W34n8"},
       {consumer_key: "gkkhB8zthzG622bt9x0C3w", consumer_secret: "2xB6Jwvi24uDQCK6Y3b9WwlxGsQLeSkceVN6LDV2R4", oauth_token: "5383262-e2CGKbeoQM7GOXE7Lc7gtEz8IYpAPCmNZJiw94BNSM", oauth_token_secret: "jbF5TktfYMGbhBgShpyHkj0nEUp16uDLgBziE4FXOQU"},
